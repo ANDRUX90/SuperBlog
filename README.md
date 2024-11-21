@@ -1,0 +1,3 @@
+Trabajo Andrus
+este es un documento de texto, usado de ejemplo y para los trabajos a venir, en mi gran CRUZADA para aprender a programar...
+en la plataforma Platzi, un sitio web adecuado para encaminarse a ser un desarrollador web y mas.
