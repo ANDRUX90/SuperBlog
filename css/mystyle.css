@@ -36,6 +36,12 @@ body{
     font-size: 22pt;
 
 }
+#footer {
+    background: #5772f3 ;
+    color: white;
+    text-align: center;
+    padding: 0.3em;
+    }
 #post
 {
     background: #a4d3da;
